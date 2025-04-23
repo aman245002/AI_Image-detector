@@ -76,13 +76,10 @@ A web-based **image classification tool** built with **TensorFlow** and **Stream
 ## 🌐 Live Demo 
 
 > You can also try the live version hosted on Hugging Face Spaces:
-> [🔗 Try the app](https://huggingface.co/spaces/Rahul9898/ai)
+> [🔗 Try the app](https://huggingface.co/spaces/aman2450/ai_image_detector)
 
 ---
 
-## 🙌 Author
 
-Created by [Rahul Kumar Gupta](https://github.com/Rahul2201020931)  
-Made with ❤️ for AI research and DeepFake awareness.
 
 ---
